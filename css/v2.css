@@ -213,3 +213,7 @@ html.js .rv.in{opacity:1;transform:none}
 .car-btn:hover{background:var(--bege);color:var(--vinho);transform:translateY(-2px)}
 .car-btn.off{opacity:.35;pointer-events:none}
 @media(max-width:900px){.car-btn,.car-btn.prev,.car-btn.next{width:44px;height:44px;font-size:18px;top:auto;left:auto;right:auto}.car-foot{gap:14px}}
+
+/* botões em petróleo com texto bege (Peça um orçamento, Ver catálogo, Ver catálogo completo nos destaques) */
+.btn.btn-petroleo{background:var(--petroleo);border-color:var(--petroleo);color:var(--bege)}
+.btn.btn-petroleo:hover{background:var(--petroleo-h);border-color:var(--petroleo-h);color:var(--bege)}
