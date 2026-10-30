@@ -26,7 +26,6 @@
   var pagina = document.body.getAttribute("data-pagina");
   var pref = pagina === "home" ? "" : "index.html";
   $("#topo").innerHTML =
-    '<div class="topo"><div class="wrap"><span>Brindes personalizados para empresas e eventos</span><span>' + esc(B.whatsappExibicao) + ' · ' + esc(B.email) + '</span></div></div>' +
     '<header class="site"><div class="wrap"><a href="index.html" class="logo"><img src="img/logo-claro.png" alt="Brinda Personalizados"></a>' +
     '<nav id="nav"><a href="index.html#sobre">Quem somos</a><a href="index.html#fazemos">O que fazemos</a><a href="index.html#clientes">Quem atendemos</a>' +
     '<a href="catalogo.html"' + (pagina === "catalogo" ? ' class="ativo"' : '') + '>Catálogo</a><a href="index.html#contato">Contato</a></nav>' +

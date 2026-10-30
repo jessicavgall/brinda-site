@@ -23,7 +23,7 @@ html.js .rv.in{opacity:1;transform:none}
 .hero2::before{content:"";position:absolute;inset:0;background:radial-gradient(60% 70% at 78% 40%,rgba(160,92,86,.28),rgba(78,34,32,0) 70%);pointer-events:none}
 .hero2::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:clamp(34px,5vw,60px);background:var(--bege);clip-path:polygon(0 100%,100% 100%,100% 0,0 70%)}
 .hero2-grid{position:relative;z-index:1;display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr);gap:clamp(24px,4vw,64px);align-items:center;min-height:clamp(480px,calc(100svh - 160px),700px)}
-.hero2 h1{font-size:clamp(2.35rem,.8rem + 4.3vw,4.7rem);line-height:1.06;font-weight:400;letter-spacing:-.02em;color:var(--bege);margin:0}
+.hero2 h1{font-size:clamp(2rem,.7rem + 3.5vw,3.9rem);line-height:1.06;font-weight:400;letter-spacing:-.02em;color:var(--bege);margin:0}
 .hero2 h1 b{font-weight:700}
 .hero2 h1 u{text-decoration:none;color:inherit;padding-bottom:.06em;background:linear-gradient(var(--bege),var(--bege)) 0 98%/100% .07em no-repeat;animation:traco2 1s .6s cubic-bezier(.2,.7,.2,1) both}
 .hero2 .acoes{display:flex;flex-wrap:wrap;gap:10px;margin-top:clamp(24px,3.4vw,44px)}
@@ -217,3 +217,11 @@ html.js .rv.in{opacity:1;transform:none}
 /* botões em petróleo com texto bege (Peça um orçamento, Ver catálogo, Ver catálogo completo nos destaques) */
 .btn.btn-petroleo{background:var(--petroleo);border-color:var(--petroleo);color:var(--bege)}
 .btn.btn-petroleo:hover{background:var(--petroleo-h);border-color:var(--petroleo-h);color:var(--bege)}
+
+
+/* "sua marca" e "ser lembrada" em Adventures Unlimited Script */
+@font-face{font-family:'Adventures';src:url(../fonts/Adventures-Unlimited-Script-Regular.otf) format('opentype');font-display:swap}
+.hero2 h1 b,.hero2 h1 u{font-family:'Adventures','Pinyon Script',cursive;font-weight:400;font-size:1.55em;line-height:.75;letter-spacing:0;-webkit-text-stroke:.012em currentColor}
+.hero2 h1 u{background:none;animation:none;padding-bottom:0}
+.hero2 h1{font-weight:300}
+.hero2 h1 b,.hero2 h1 u{white-space:nowrap}
