@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Catálogo — Brinda Personalizados</title>
+<meta name="description" content="Catálogo de brindes personalizados por categoria. Solicite seu orçamento.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Pinyon+Script&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="icon" type="image/png" href="img/icone.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-pagina="catalogo">
+<div id="topo"></div>
+
+<div class="cat-topo">
+  <div class="wrap">
+    <span class="eyebrow">Catálogo online</span>
+    <h1 id="titulo-cat">Todos os produtos</h1>
+    <ol class="mini-passos">
+      <li><b>Escolha o produto</b><span>e clique em “Solicitar orçamento”.</span></li>
+      <li><b>Confira</b><span>Abra “Meu orçamento” e ajuste as quantidades.</span></li>
+      <li><b>Envie</b><span>Use “Solicitar Orçamento” ou “Entrar em contato”.</span></li>
+      <li><b>Receba</b><span>Retornamos com valores e prazos.</span></li>
+    </ol>
+  </div>
+</div>
+
+<div class="catalogo">
+  <aside class="lateral" id="lateral"></aside>
+  <main>
+    <div class="chips-mob" id="chips"></div>
+    <div class="barra">
+      <input id="busca" type="search" placeholder="Buscar produto…" aria-label="Buscar produto">
+      <span id="total"></span>
+    </div>
+    <div class="produtos" id="lista"></div>
+  </main>
+</div>
+
+<div id="rodape"></div>
+<script src="js/config.js"></script>
+<script src="js/produtos.js"></script>
+<script src="js/produtos-asia.js"></script>
+<script src="js/produtos-xbz.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
