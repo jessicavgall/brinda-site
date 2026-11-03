@@ -1,4 +1,4 @@
-/* Gera uma página por produto em p/<id>.html (link próprio com nome e foto no WhatsApp).
+/* Gera uma página por produto em p/<nome-do-produto>.html (sem código nem fornecedor) (link próprio com nome e foto no WhatsApp).
    Rode sempre que adicionar ou alterar produtos:  node tools/gerar-paginas.js */
 const fs = require("fs"), path = require("path");
 const raiz = path.join(__dirname, "..");
@@ -8,12 +8,17 @@ const DOM = "https://personalizadosbrinda.com";
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 fs.mkdirSync(path.join(raiz, "p"), { recursive: true });
 fs.readdirSync(path.join(raiz, "p")).filter(f => f.endsWith(".html")).forEach(f => fs.unlinkSync(path.join(raiz, "p", f)));
+const slugar = t => String(t).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+const usados = {};
 let n = 0;
 window.PRODUTOS.forEach(p => {
+  let b = slugar(p.nome) || "produto", s = b, k = 1;
+  while (usados[s]) s = b + "-" + (++k);
+  usados[s] = 1;
   const desc = (p.descricao || "").replace(/\s+/g, " ").slice(0, 150).trim();
-  const alvo = "../catalogo.html?p=" + encodeURIComponent(p.id);
+  const alvo = "../catalogo.html?p=" + encodeURIComponent(s);
   const img = p.fotos && p.fotos[0] ? DOM + "/" + p.fotos[0] : DOM + "/img/og-image.jpg";
-  fs.writeFileSync(path.join(raiz, "p", p.id + ".html"),
+  fs.writeFileSync(path.join(raiz, "p", s + ".html"),
 `<!doctype html>
 <html lang="pt-BR">
 <head>
@@ -26,7 +31,7 @@ window.PRODUTOS.forEach(p => {
 <meta property="og:title" content="${esc(p.nome)}">
 <meta property="og:description" content="Solicite seu orçamento na Brinda Personalizados.">
 <meta property="og:image" content="${esc(img)}">
-<meta property="og:url" content="${DOM}/p/${esc(p.id)}.html">
+<meta property="og:url" content="${DOM}/p/${s}.html">
 <link rel="icon" type="image/png" sizes="32x32" href="../img/favicon-32.png?v=3">
 <meta http-equiv="refresh" content="0;url=${alvo}">
 <script>location.replace(${JSON.stringify(alvo)});</script>

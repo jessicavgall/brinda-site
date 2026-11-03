@@ -4,6 +4,10 @@
   var $ = function (s, r) { return (r || document).querySelector(s); };
   var esc = function (s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); };
   var catDe = function (id) { return CATS.filter(function (c) { return c.id === id; })[0] || {}; };
+  /* link do produto: só o nome (sem código nem fornecedor); nomes repetidos ganham -2, -3... */
+  var slugar = function (t) { return String(t).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, ""); };
+  (function () { var usados = {}; PRODS.forEach(function (p) { var b = slugar(p.nome) || "produto", s = b, n = 1; while (usados[s]) s = b + "-" + (++n); usados[s] = 1; p.slug = s; }); })();
+  var porSlug = function (s) { return PRODS.filter(function (p) { return p.slug === s; })[0]; };
   var porId = function (id) { return PRODS.filter(function (p) { return p.id === id; })[0]; };
 
   /* ---------- orçamento (guardado no navegador) ---------- */
@@ -206,13 +210,13 @@
       };
     });
     $("#fm").onclick = fechar; $("#ma").onclick = function () { adicionar(id); fechar(); };
-    var url = location.origin + location.pathname.replace(/[^/]*$/, "") + "p/" + id + ".html";
+    var url = location.origin + location.pathname.replace(/[^/]*$/, "") + "p/" + p.slug + ".html";
     $("#mlink").onclick = function () {
       var b = this, ok = function () { b.textContent = "Link copiado!"; setTimeout(function () { b.textContent = "Copiar link do produto"; }, 2200); };
       if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(url).then(ok, function () { window.prompt("Copie o link:", url); });
       else window.prompt("Copie o link:", url);
     };
-    try { var u = new URL(location.href); u.searchParams.set("p", id); history.replaceState(null, "", u.pathname + u.search + u.hash); } catch (e) {}
+    try { var u = new URL(location.href); u.searchParams.set("p", p.slug); history.replaceState(null, "", u.pathname + u.search + u.hash); } catch (e) {}
   }
 
   /* ---------- home ---------- */
@@ -275,6 +279,6 @@
     $("#busca").oninput = function () { busca = this.value; render(); };
     render();
     var pedido = new URLSearchParams(location.search).get("p");
-    if (pedido && porId(pedido)) detalhe(pedido);
+    var pp = pedido && (porSlug(pedido) || porId(pedido)); if (pp) detalhe(pp.id);
   }
 })();
