@@ -36,10 +36,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-09188-1.jpg",
-   "img/xbz-09188-2.jpg",
-   "img/xbz-09188-3.jpg",
-   "img/xbz-09188-4.jpg"
+   "img/squeeze-inox-500ml-1.jpg",
+   "img/squeeze-inox-500ml-2.jpg",
+   "img/squeeze-inox-500ml-3.jpg",
+   "img/squeeze-inox-500ml-4.jpg"
   ]
  },
  {
@@ -78,10 +78,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-18855-1.jpg",
-   "img/xbz-18855-2.jpg",
-   "img/xbz-18855-3.jpg",
-   "img/xbz-18855-4.jpg"
+   "img/garrafa-termica-inox-850ml-1.jpg",
+   "img/garrafa-termica-inox-850ml-2.jpg",
+   "img/garrafa-termica-inox-850ml-3.jpg",
+   "img/garrafa-termica-inox-850ml-4.jpg"
   ]
  },
  {
@@ -120,10 +120,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-09073-1.jpg",
-   "img/xbz-09073-2.jpg",
-   "img/xbz-09073-3.jpg",
-   "img/xbz-09073-4.jpg"
+   "img/copo-termico-350ml-1.jpg",
+   "img/copo-termico-350ml-2.jpg",
+   "img/copo-termico-350ml-3.jpg",
+   "img/copo-termico-350ml-4.jpg"
   ]
  },
  {
@@ -142,8 +142,8 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-10390-1.jpg",
-   "img/xbz-10390-2.jpg"
+   "img/porta-whisky-6oz-1.jpg",
+   "img/porta-whisky-6oz-2.jpg"
   ]
  },
  {
@@ -182,10 +182,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-09197-1.jpg",
-   "img/xbz-09197-2.jpg",
-   "img/xbz-09197-3.jpg",
-   "img/xbz-09197-4.jpg"
+   "img/copo-inox-480ml-1.jpg",
+   "img/copo-inox-480ml-2.jpg",
+   "img/copo-inox-480ml-3.jpg",
+   "img/copo-inox-480ml-4.jpg"
   ]
  },
  {
@@ -220,10 +220,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-18678-1.jpg",
-   "img/xbz-18678-2.jpg",
-   "img/xbz-18678-3.jpg",
-   "img/xbz-18678-4.jpg"
+   "img/garrafa-termica-1l-1.jpg",
+   "img/garrafa-termica-1l-2.jpg",
+   "img/garrafa-termica-1l-3.jpg",
+   "img/garrafa-termica-1l-4.jpg"
   ]
  },
  {
@@ -274,9 +274,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-18552-1.jpg",
-   "img/xbz-18552-2.jpg",
-   "img/xbz-18552-3.jpg"
+   "img/garrafa-inox-750ml-1.jpg",
+   "img/garrafa-inox-750ml-2.jpg",
+   "img/garrafa-inox-750ml-3.jpg"
   ]
  },
  {
@@ -335,10 +335,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-12459-1.jpg",
-   "img/xbz-12459-2.jpg",
-   "img/xbz-12459-3.jpg",
-   "img/xbz-12459-4.jpg"
+   "img/squeeze-dobravel-450ml-1.jpg",
+   "img/squeeze-dobravel-450ml-2.jpg",
+   "img/squeeze-dobravel-450ml-3.jpg",
+   "img/squeeze-dobravel-450ml-4.jpg"
   ]
  },
  {
@@ -369,9 +369,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-18947-1.jpg",
-   "img/xbz-18947-2.jpg",
-   "img/xbz-18947-3.jpg"
+   "img/marmita-dupla-plastica-1.jpg",
+   "img/marmita-dupla-plastica-2.jpg",
+   "img/marmita-dupla-plastica-3.jpg"
   ]
  },
  {
@@ -402,10 +402,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-18859-1.jpg",
-   "img/xbz-18859-2.jpg",
-   "img/xbz-18859-3.jpg",
-   "img/xbz-18859-4.jpg"
+   "img/kit-talheres-3-pecas-1.jpg",
+   "img/kit-talheres-3-pecas-2.jpg",
+   "img/kit-talheres-3-pecas-3.jpg",
+   "img/kit-talheres-3-pecas-4.jpg"
   ]
  },
  {
@@ -436,10 +436,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-18860-1.jpg",
-   "img/xbz-18860-2.jpg",
-   "img/xbz-18860-3.jpg",
-   "img/xbz-18860-4.jpg"
+   "img/kit-talheres-3-pecas-2-1.jpg",
+   "img/kit-talheres-3-pecas-2-2.jpg",
+   "img/kit-talheres-3-pecas-2-3.jpg",
+   "img/kit-talheres-3-pecas-2-4.jpg"
   ]
  },
  {
@@ -470,10 +470,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-18876-1.jpg",
-   "img/xbz-18876-2.jpg",
-   "img/xbz-18876-3.jpg",
-   "img/xbz-18876-4.jpg"
+   "img/kit-pincel-8-pecas-1.jpg",
+   "img/kit-pincel-8-pecas-2.jpg",
+   "img/kit-pincel-8-pecas-3.jpg",
+   "img/kit-pincel-8-pecas-4.jpg"
   ]
  },
  {
@@ -516,10 +516,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-06024-1.jpg",
-   "img/xbz-06024-2.jpg",
-   "img/xbz-06024-3.jpg",
-   "img/xbz-06024-4.jpg"
+   "img/bolsa-termica-6l-1.jpg",
+   "img/bolsa-termica-6l-2.jpg",
+   "img/bolsa-termica-6l-3.jpg",
+   "img/bolsa-termica-6l-4.jpg"
   ]
  },
  {
@@ -550,9 +550,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-18534-1.jpg",
-   "img/xbz-18534-2.jpg",
-   "img/xbz-18534-3.jpg"
+   "img/necessaire-pvc-impermeavel-1.jpg",
+   "img/necessaire-pvc-impermeavel-2.jpg",
+   "img/necessaire-pvc-impermeavel-3.jpg"
   ]
  },
  {
@@ -587,9 +587,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-18738-1.jpg",
-   "img/xbz-18738-2.jpg",
-   "img/xbz-18738-3.jpg"
+   "img/necessaire-poliester-1.jpg",
+   "img/necessaire-poliester-2.jpg",
+   "img/necessaire-poliester-3.jpg"
   ]
  },
  {
@@ -620,10 +620,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-19022-1.jpg",
-   "img/xbz-19022-2.jpg",
-   "img/xbz-19022-3.jpg",
-   "img/xbz-19022-4.jpg"
+   "img/necessaire-couro-sintetico-1.jpg",
+   "img/necessaire-couro-sintetico-2.jpg",
+   "img/necessaire-couro-sintetico-3.jpg",
+   "img/necessaire-couro-sintetico-4.jpg"
   ]
  },
  {
@@ -654,10 +654,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-19020-1.jpg",
-   "img/xbz-19020-2.jpg",
-   "img/xbz-19020-3.jpg",
-   "img/xbz-19020-4.jpg"
+   "img/necessaire-couro-sintetico-2-1.jpg",
+   "img/necessaire-couro-sintetico-2-2.jpg",
+   "img/necessaire-couro-sintetico-2-3.jpg",
+   "img/necessaire-couro-sintetico-2-4.jpg"
   ]
  },
  {
@@ -696,10 +696,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-13780-1.jpg",
-   "img/xbz-13780-2.jpg",
-   "img/xbz-13780-3.jpg",
-   "img/xbz-13780-4.jpg"
+   "img/sacola-tnt-com-alca-1.jpg",
+   "img/sacola-tnt-com-alca-2.jpg",
+   "img/sacola-tnt-com-alca-3.jpg",
+   "img/sacola-tnt-com-alca-4.jpg"
   ]
  },
  {
@@ -718,10 +718,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-18503-1.jpg",
-   "img/xbz-18503-2.jpg",
-   "img/xbz-18503-3.jpg",
-   "img/xbz-18503-4.jpg"
+   "img/bolsa-termica-6l-2-1.jpg",
+   "img/bolsa-termica-6l-2-2.jpg",
+   "img/bolsa-termica-6l-2-3.jpg",
+   "img/bolsa-termica-6l-2-4.jpg"
   ]
  },
  {
@@ -748,10 +748,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-01820-1.jpg",
-   "img/xbz-01820-2.jpg",
-   "img/xbz-01820-3.jpg",
-   "img/xbz-01820-4.jpg"
+   "img/mochila-oxford-14l-1.jpg",
+   "img/mochila-oxford-14l-2.jpg",
+   "img/mochila-oxford-14l-3.jpg",
+   "img/mochila-oxford-14l-4.jpg"
   ]
  },
  {
@@ -770,10 +770,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-09148-1.jpg",
-   "img/xbz-09148-2.jpg",
-   "img/xbz-09148-3.jpg",
-   "img/xbz-09148-4.jpg"
+   "img/bolsa-couro-sintetico-expansivel-36l-1.jpg",
+   "img/bolsa-couro-sintetico-expansivel-36l-2.jpg",
+   "img/bolsa-couro-sintetico-expansivel-36l-3.jpg",
+   "img/bolsa-couro-sintetico-expansivel-36l-4.jpg"
   ]
  },
  {
@@ -796,10 +796,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-07076-1.jpg",
-   "img/xbz-07076-2.jpg",
-   "img/xbz-07076-3.jpg",
-   "img/xbz-07076-4.jpg"
+   "img/identificador-de-bagagem-1.jpg",
+   "img/identificador-de-bagagem-2.jpg",
+   "img/identificador-de-bagagem-3.jpg",
+   "img/identificador-de-bagagem-4.jpg"
   ]
  },
  {
@@ -826,9 +826,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-13469-1.jpg",
-   "img/xbz-13469-2.jpg",
-   "img/xbz-13469-3.jpg"
+   "img/lixocar-de-couro-1.jpg",
+   "img/lixocar-de-couro-2.jpg",
+   "img/lixocar-de-couro-3.jpg"
   ]
  },
  {
@@ -851,10 +851,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-19171-1.jpg",
-   "img/xbz-19171-2.jpg",
-   "img/xbz-19171-3.jpg",
-   "img/xbz-19171-4.jpg"
+   "img/pochete-doleira-nylon-1.jpg",
+   "img/pochete-doleira-nylon-2.jpg",
+   "img/pochete-doleira-nylon-3.jpg",
+   "img/pochete-doleira-nylon-4.jpg"
   ]
  },
  {
@@ -877,10 +877,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-19128-1.jpg",
-   "img/xbz-19128-2.jpg",
-   "img/xbz-19128-3.jpg",
-   "img/xbz-19128-4.jpg"
+   "img/porta-vinho-couro-sintetico-1.jpg",
+   "img/porta-vinho-couro-sintetico-2.jpg",
+   "img/porta-vinho-couro-sintetico-3.jpg",
+   "img/porta-vinho-couro-sintetico-4.jpg"
   ]
  },
  {
@@ -903,10 +903,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-08148-1.jpg",
-   "img/xbz-08148-2.jpg",
-   "img/xbz-08148-3.jpg",
-   "img/xbz-08148-4.jpg"
+   "img/porta-vinho-pu-1.jpg",
+   "img/porta-vinho-pu-2.jpg",
+   "img/porta-vinho-pu-3.jpg",
+   "img/porta-vinho-pu-4.jpg"
   ]
  },
  {
@@ -925,10 +925,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-19127-1.jpg",
-   "img/xbz-19127-2.jpg",
-   "img/xbz-19127-3.jpg",
-   "img/xbz-19127-4.jpg"
+   "img/porta-vinho-duplo-couro-sintetico-1.jpg",
+   "img/porta-vinho-duplo-couro-sintetico-2.jpg",
+   "img/porta-vinho-duplo-couro-sintetico-3.jpg",
+   "img/porta-vinho-duplo-couro-sintetico-4.jpg"
   ]
  },
  {
@@ -947,10 +947,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-07806-1.jpg",
-   "img/xbz-07806-2.jpg",
-   "img/xbz-07806-3.jpg",
-   "img/xbz-07806-4.jpg"
+   "img/porta-relogios-1.jpg",
+   "img/porta-relogios-2.jpg",
+   "img/porta-relogios-3.jpg",
+   "img/porta-relogios-4.jpg"
   ]
  },
  {
@@ -1001,10 +1001,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-01618-1.jpg",
-   "img/xbz-01618-2.jpg",
-   "img/xbz-01618-3.jpg",
-   "img/xbz-01618-4.jpg"
+   "img/porta-joias-1.jpg",
+   "img/porta-joias-2.jpg",
+   "img/porta-joias-3.jpg",
+   "img/porta-joias-4.jpg"
   ]
  },
  {
@@ -1055,10 +1055,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-01622-1.jpg",
-   "img/xbz-01622-2.jpg",
-   "img/xbz-01622-3.jpg",
-   "img/xbz-01622-4.jpg"
+   "img/porta-joias-2-1.jpg",
+   "img/porta-joias-2-2.jpg",
+   "img/porta-joias-2-3.jpg",
+   "img/porta-joias-2-4.jpg"
   ]
  },
  {
@@ -1085,10 +1085,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-18535-1.jpg",
-   "img/xbz-18535-2.jpg",
-   "img/xbz-18535-3.jpg",
-   "img/xbz-18535-4.jpg"
+   "img/kit-viagem-5-pecas-1.jpg",
+   "img/kit-viagem-5-pecas-2.jpg",
+   "img/kit-viagem-5-pecas-3.jpg",
+   "img/kit-viagem-5-pecas-4.jpg"
   ]
  },
  {
@@ -1123,10 +1123,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-08226-1.jpg",
-   "img/xbz-08226-2.jpg",
-   "img/xbz-08226-3.jpg",
-   "img/xbz-08226-4.jpg"
+   "img/toalha-esportiva-refrescante-de-elastano-1.jpg",
+   "img/toalha-esportiva-refrescante-de-elastano-2.jpg",
+   "img/toalha-esportiva-refrescante-de-elastano-3.jpg",
+   "img/toalha-esportiva-refrescante-de-elastano-4.jpg"
   ]
  },
  {
@@ -1149,10 +1149,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-09288-1.jpg",
-   "img/xbz-09288-2.jpg",
-   "img/xbz-09288-3.jpg",
-   "img/xbz-09288-4.jpg"
+   "img/fone-de-ouvido-bluetooth-com-case-carregador-1.jpg",
+   "img/fone-de-ouvido-bluetooth-com-case-carregador-2.jpg",
+   "img/fone-de-ouvido-bluetooth-com-case-carregador-3.jpg",
+   "img/fone-de-ouvido-bluetooth-com-case-carregador-4.jpg"
   ]
  },
  {
@@ -1207,10 +1207,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-09824-1.jpg",
-   "img/xbz-09824-2.jpg",
-   "img/xbz-09824-3.jpg",
-   "img/xbz-09824-4.jpg"
+   "img/chaveiro-abridor-1.jpg",
+   "img/chaveiro-abridor-2.jpg",
+   "img/chaveiro-abridor-3.jpg",
+   "img/chaveiro-abridor-4.jpg"
   ]
  },
  {
@@ -1245,10 +1245,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-06085-1.jpg",
-   "img/xbz-06085-2.jpg",
-   "img/xbz-06085-3.jpg",
-   "img/xbz-06085-4.jpg"
+   "img/chaveiro-capacete-epi-plastico-1.jpg",
+   "img/chaveiro-capacete-epi-plastico-2.jpg",
+   "img/chaveiro-capacete-epi-plastico-3.jpg",
+   "img/chaveiro-capacete-epi-plastico-4.jpg"
   ]
  },
  {
@@ -1279,9 +1279,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-10385-1.jpg",
-   "img/xbz-10385-2.jpg",
-   "img/xbz-10385-3.jpg"
+   "img/trena-emborrachada-de-3-metros-1.jpg",
+   "img/trena-emborrachada-de-3-metros-2.jpg",
+   "img/trena-emborrachada-de-3-metros-3.jpg"
   ]
  },
  {
@@ -1312,9 +1312,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-08065-1.jpg",
-   "img/xbz-08065-2.jpg",
-   "img/xbz-08065-3.jpg"
+   "img/kit-ferramentas-9-pecas-1.jpg",
+   "img/kit-ferramentas-9-pecas-2.jpg",
+   "img/kit-ferramentas-9-pecas-3.jpg"
   ]
  },
  {
@@ -1349,10 +1349,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-19152-1.jpg",
-   "img/xbz-19152-2.jpg",
-   "img/xbz-19152-3.jpg",
-   "img/xbz-19152-4.jpg"
+   "img/caderneta-couro-sintetico-1.jpg",
+   "img/caderneta-couro-sintetico-2.jpg",
+   "img/caderneta-couro-sintetico-3.jpg",
+   "img/caderneta-couro-sintetico-4.jpg"
   ]
  },
  {
@@ -1387,10 +1387,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-02601-1.jpg",
-   "img/xbz-02601-2.jpg",
-   "img/xbz-02601-3.jpg",
-   "img/xbz-02601-4.jpg"
+   "img/caderno-kraft-b6-com-porta-caneta-1.jpg",
+   "img/caderno-kraft-b6-com-porta-caneta-2.jpg",
+   "img/caderno-kraft-b6-com-porta-caneta-3.jpg",
+   "img/caderno-kraft-b6-com-porta-caneta-4.jpg"
   ]
  },
  {
@@ -1441,9 +1441,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-03009-1.jpg",
-   "img/xbz-03009-2.jpg",
-   "img/xbz-03009-3.jpg"
+   "img/caderneta-emborrachada-1.jpg",
+   "img/caderneta-emborrachada-2.jpg",
+   "img/caderneta-emborrachada-3.jpg"
   ]
  },
  {
@@ -1491,10 +1491,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-03005-1.jpg",
-   "img/xbz-03005-2.jpg",
-   "img/xbz-03005-3.jpg",
-   "img/xbz-03005-4.jpg"
+   "img/caderneta-de-couro-sintetico-1.jpg",
+   "img/caderneta-de-couro-sintetico-2.jpg",
+   "img/caderneta-de-couro-sintetico-3.jpg",
+   "img/caderneta-de-couro-sintetico-4.jpg"
   ]
  },
  {
@@ -1508,10 +1508,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-05065-1.jpg",
-   "img/xbz-05065-2.jpg",
-   "img/xbz-05065-3.jpg",
-   "img/xbz-05065-4.jpg"
+   "img/bloco-de-anotacoes-com-autoadesivos-e-caneta-1.jpg",
+   "img/bloco-de-anotacoes-com-autoadesivos-e-caneta-2.jpg",
+   "img/bloco-de-anotacoes-com-autoadesivos-e-caneta-3.jpg",
+   "img/bloco-de-anotacoes-com-autoadesivos-e-caneta-4.jpg"
   ]
  },
  {
@@ -1550,9 +1550,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-12172-1.jpg",
-   "img/xbz-12172-2.jpg",
-   "img/xbz-12172-3.jpg"
+   "img/caneta-ecologica-bambu-1.jpg",
+   "img/caneta-ecologica-bambu-2.jpg",
+   "img/caneta-ecologica-bambu-3.jpg"
   ]
  },
  {
@@ -1599,9 +1599,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-08170-1.jpg",
-   "img/xbz-08170-2.jpg",
-   "img/xbz-08170-3.jpg"
+   "img/caneta-metal-1.jpg",
+   "img/caneta-metal-2.jpg",
+   "img/caneta-metal-3.jpg"
   ]
  },
  {
@@ -1648,9 +1648,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-08186-1.jpg",
-   "img/xbz-08186-2.jpg",
-   "img/xbz-08186-3.jpg"
+   "img/caneta-metal-2-1.jpg",
+   "img/caneta-metal-2-2.jpg",
+   "img/caneta-metal-2-3.jpg"
   ]
  },
  {
@@ -1681,10 +1681,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-05006-1.jpg",
-   "img/xbz-05006-2.jpg",
-   "img/xbz-05006-3.jpg",
-   "img/xbz-05006-4.jpg"
+   "img/caneta-metal-touch-1.jpg",
+   "img/caneta-metal-touch-2.jpg",
+   "img/caneta-metal-touch-3.jpg",
+   "img/caneta-metal-touch-4.jpg"
   ]
  },
  {
@@ -1743,9 +1743,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-06076-1.jpg",
-   "img/xbz-06076-2.jpg",
-   "img/xbz-06076-3.jpg"
+   "img/caneta-metal-3-1.jpg",
+   "img/caneta-metal-3-2.jpg",
+   "img/caneta-metal-3-3.jpg"
   ]
  },
  {
@@ -1792,10 +1792,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-08268-1.jpg",
-   "img/xbz-08268-2.jpg",
-   "img/xbz-08268-3.jpg",
-   "img/xbz-08268-4.jpg"
+   "img/caneta-metal-4-1.jpg",
+   "img/caneta-metal-4-2.jpg",
+   "img/caneta-metal-4-3.jpg",
+   "img/caneta-metal-4-4.jpg"
   ]
  },
  {
@@ -1842,9 +1842,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-09118-1.jpg",
-   "img/xbz-09118-2.jpg",
-   "img/xbz-09118-3.jpg"
+   "img/caneta-metal-touch-2-1.jpg",
+   "img/caneta-metal-touch-2-2.jpg",
+   "img/caneta-metal-touch-2-3.jpg"
   ]
  },
  {
@@ -1899,10 +1899,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-05091-1.jpg",
-   "img/xbz-05091-2.jpg",
-   "img/xbz-05091-3.jpg",
-   "img/xbz-05091-4.jpg"
+   "img/caneta-plastica-touch-1.jpg",
+   "img/caneta-plastica-touch-2.jpg",
+   "img/caneta-plastica-touch-3.jpg",
+   "img/caneta-plastica-touch-4.jpg"
   ]
  },
  {
@@ -1937,10 +1937,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-05010-1.jpg",
-   "img/xbz-05010-2.jpg",
-   "img/xbz-05010-3.jpg",
-   "img/xbz-05010-4.jpg"
+   "img/caneta-metal-touch-3-1.jpg",
+   "img/caneta-metal-touch-3-2.jpg",
+   "img/caneta-metal-touch-3-3.jpg",
+   "img/caneta-metal-touch-3-4.jpg"
   ]
  },
  {
@@ -1979,10 +1979,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-08161-1.jpg",
-   "img/xbz-08161-2.jpg",
-   "img/xbz-08161-3.jpg",
-   "img/xbz-08161-4.jpg"
+   "img/caneta-metal-5-1.jpg",
+   "img/caneta-metal-5-2.jpg",
+   "img/caneta-metal-5-3.jpg",
+   "img/caneta-metal-5-4.jpg"
   ]
  },
  {
@@ -2029,9 +2029,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-01096-1.jpg",
-   "img/xbz-01096-2.jpg",
-   "img/xbz-01096-3.jpg"
+   "img/caneta-plastica-1.jpg",
+   "img/caneta-plastica-2.jpg",
+   "img/caneta-plastica-3.jpg"
   ]
  },
  {
@@ -2082,10 +2082,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-06083-1.jpg",
-   "img/xbz-06083-2.jpg",
-   "img/xbz-06083-3.jpg",
-   "img/xbz-06083-4.jpg"
+   "img/kit-ecologico-caneta-e-lapiseira-cortica-1.jpg",
+   "img/kit-ecologico-caneta-e-lapiseira-cortica-2.jpg",
+   "img/kit-ecologico-caneta-e-lapiseira-cortica-3.jpg",
+   "img/kit-ecologico-caneta-e-lapiseira-cortica-4.jpg"
   ]
  },
  {
@@ -2104,8 +2104,8 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-1098c-1.jpg",
-   "img/xbz-1098c-2.jpg"
+   "img/caneta-plastica-2-1.jpg",
+   "img/caneta-plastica-2-2.jpg"
   ]
  },
  {
@@ -2124,9 +2124,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-07447-1.jpg",
-   "img/xbz-07447-2.jpg",
-   "img/xbz-07447-3.jpg"
+   "img/kit-churrasco-2-pecas-1.jpg",
+   "img/kit-churrasco-2-pecas-2.jpg",
+   "img/kit-churrasco-2-pecas-3.jpg"
   ]
  },
  {
@@ -2145,10 +2145,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-07443-1.jpg",
-   "img/xbz-07443-2.jpg",
-   "img/xbz-07443-3.jpg",
-   "img/xbz-07443-4.jpg"
+   "img/kit-churrasco-2-pecas-2-1.jpg",
+   "img/kit-churrasco-2-pecas-2-2.jpg",
+   "img/kit-churrasco-2-pecas-2-3.jpg",
+   "img/kit-churrasco-2-pecas-2-4.jpg"
   ]
  },
  {
@@ -2187,8 +2187,8 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-18501-1.jpg",
-   "img/xbz-18501-2.jpg"
+   "img/necessaire-de-nylon-1.jpg",
+   "img/necessaire-de-nylon-2.jpg"
   ]
  },
  {
@@ -2219,10 +2219,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-04057-1.jpg",
-   "img/xbz-04057-2.jpg",
-   "img/xbz-04057-3.jpg",
-   "img/xbz-04057-4.jpg"
+   "img/mochila-de-nylon-usb-21l-1.jpg",
+   "img/mochila-de-nylon-usb-21l-2.jpg",
+   "img/mochila-de-nylon-usb-21l-3.jpg",
+   "img/mochila-de-nylon-usb-21l-4.jpg"
   ]
  },
  {
@@ -2253,10 +2253,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-14185-1.jpg",
-   "img/xbz-14185-2.jpg",
-   "img/xbz-14185-3.jpg",
-   "img/xbz-14185-4.jpg"
+   "img/mochila-antifurto-poliester-16-litros-1.jpg",
+   "img/mochila-antifurto-poliester-16-litros-2.jpg",
+   "img/mochila-antifurto-poliester-16-litros-3.jpg",
+   "img/mochila-antifurto-poliester-16-litros-4.jpg"
   ]
  },
  {
@@ -2299,10 +2299,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-00708-1.jpg",
-   "img/xbz-00708-2.jpg",
-   "img/xbz-00708-3.jpg",
-   "img/xbz-00708-4.jpg"
+   "img/caneta-plastica-touch-com-suporte-1.jpg",
+   "img/caneta-plastica-touch-com-suporte-2.jpg",
+   "img/caneta-plastica-touch-com-suporte-3.jpg",
+   "img/caneta-plastica-touch-com-suporte-4.jpg"
   ]
  },
  {
@@ -2321,10 +2321,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-18935-1.jpg",
-   "img/xbz-18935-2.jpg",
-   "img/xbz-18935-3.jpg",
-   "img/xbz-18935-4.jpg"
+   "img/caderneta-em-pu-1.jpg",
+   "img/caderneta-em-pu-2.jpg",
+   "img/caderneta-em-pu-3.jpg",
+   "img/caderneta-em-pu-4.jpg"
   ]
  },
  {
@@ -2363,10 +2363,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-00016-1.jpg",
-   "img/xbz-00016-2.jpg",
-   "img/xbz-00016-3.jpg",
-   "img/xbz-00016-4.jpg"
+   "img/caneta-ecologica-com-suporte-para-celular-1.jpg",
+   "img/caneta-ecologica-com-suporte-para-celular-2.jpg",
+   "img/caneta-ecologica-com-suporte-para-celular-3.jpg",
+   "img/caneta-ecologica-com-suporte-para-celular-4.jpg"
   ]
  },
  {
@@ -2413,10 +2413,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-19007-1.jpg",
-   "img/xbz-19007-2.jpg",
-   "img/xbz-19007-3.jpg",
-   "img/xbz-19007-4.jpg"
+   "img/garrafa-termica-800ml-1.jpg",
+   "img/garrafa-termica-800ml-2.jpg",
+   "img/garrafa-termica-800ml-3.jpg",
+   "img/garrafa-termica-800ml-4.jpg"
   ]
  },
  {
@@ -2435,9 +2435,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-10071g-1.jpg",
-   "img/xbz-10071g-2.jpg",
-   "img/xbz-10071g-3.jpg"
+   "img/kit-vinho-2-pecas-1.jpg",
+   "img/kit-vinho-2-pecas-2.jpg",
+   "img/kit-vinho-2-pecas-3.jpg"
   ]
  },
  {
@@ -2460,10 +2460,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-05072b-1.jpg",
-   "img/xbz-05072b-2.jpg",
-   "img/xbz-05072b-3.jpg",
-   "img/xbz-05072b-4.jpg"
+   "img/kit-costura-plastico-1.jpg",
+   "img/kit-costura-plastico-2.jpg",
+   "img/kit-costura-plastico-3.jpg",
+   "img/kit-costura-plastico-4.jpg"
   ]
  },
  {
@@ -2502,8 +2502,8 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-01228p-1.jpg",
-   "img/xbz-01228p-2.jpg"
+   "img/necessaire-pvc-impermeavel-com-plaquinha-1.jpg",
+   "img/necessaire-pvc-impermeavel-com-plaquinha-2.jpg"
   ]
  },
  {
@@ -2522,9 +2522,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-13433i-1.jpg",
-   "img/xbz-13433i-2.jpg",
-   "img/xbz-13433i-3.jpg"
+   "img/sacola-para-garrafa-1.jpg",
+   "img/sacola-para-garrafa-2.jpg",
+   "img/sacola-para-garrafa-3.jpg"
   ]
  },
  {
@@ -2591,9 +2591,9 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-14092n-1.jpg",
-   "img/xbz-14092n-2.jpg",
-   "img/xbz-14092n-3.jpg"
+   "img/caderneta-emborrachada-2-1.jpg",
+   "img/caderneta-emborrachada-2-2.jpg",
+   "img/caderneta-emborrachada-2-3.jpg"
   ]
  },
  {
@@ -2632,10 +2632,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-19030-1.jpg",
-   "img/xbz-19030-2.jpg",
-   "img/xbz-19030-3.jpg",
-   "img/xbz-19030-4.jpg"
+   "img/kit-executivo-3-pecas-1.jpg",
+   "img/kit-executivo-3-pecas-2.jpg",
+   "img/kit-executivo-3-pecas-3.jpg",
+   "img/kit-executivo-3-pecas-4.jpg"
   ]
  },
  {
@@ -2674,10 +2674,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-15007b-1.jpg",
-   "img/xbz-15007b-2.jpg",
-   "img/xbz-15007b-3.jpg",
-   "img/xbz-15007b-4.jpg"
+   "img/caneta-metal-6-1.jpg",
+   "img/caneta-metal-6-2.jpg",
+   "img/caneta-metal-6-3.jpg",
+   "img/caneta-metal-6-4.jpg"
   ]
  },
  {
@@ -2716,10 +2716,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/xbz-10342-1.jpg",
-   "img/xbz-10342-2.jpg",
-   "img/xbz-10342-3.jpg",
-   "img/xbz-10342-4.jpg"
+   "img/escova-com-espelho-1.jpg",
+   "img/escova-com-espelho-2.jpg",
+   "img/escova-com-espelho-3.jpg",
+   "img/escova-com-espelho-4.jpg"
   ]
  },
 {
@@ -2738,8 +2738,8 @@ window.PRODUTOS = window.PRODUTOS.concat([
   "Sob consulta"
  ],
  "fotos": [
-  "img/xbz-15527-1.jpg",
-  "img/xbz-15527-2.jpg"
+  "img/espelho-bambu-1.jpg",
+  "img/espelho-bambu-2.jpg"
  ]
 },
 {
@@ -2770,8 +2770,8 @@ window.PRODUTOS = window.PRODUTOS.concat([
   "Sob consulta"
  ],
  "fotos": [
-  "img/xbz-18830-1.jpg",
-  "img/xbz-18830-2.jpg"
+  "img/espelho-duplo-revestido-em-pu-1.jpg",
+  "img/espelho-duplo-revestido-em-pu-2.jpg"
  ]
 },
 {
@@ -2794,10 +2794,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
   "Sob consulta"
  ],
  "fotos": [
-  "img/xbz-06060-1.jpg",
-  "img/xbz-06060-2.jpg",
-  "img/xbz-06060-3.jpg",
-  "img/xbz-06060-4.jpg"
+  "img/espelho-de-aco-inox-1.jpg",
+  "img/espelho-de-aco-inox-2.jpg",
+  "img/espelho-de-aco-inox-3.jpg",
+  "img/espelho-de-aco-inox-4.jpg"
  ]
 }
 ]);

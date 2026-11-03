@@ -16,10 +16,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/bac003-1.jpg",
-   "img/bac003-2.jpg",
-   "img/bac003-3.jpg",
-   "img/bac003-4.jpg"
+   "img/sacola-em-algodao-140g-m-e-cortica-39x35cm-1.jpg",
+   "img/sacola-em-algodao-140g-m-e-cortica-39x35cm-2.jpg",
+   "img/sacola-em-algodao-140g-m-e-cortica-39x35cm-3.jpg",
+   "img/sacola-em-algodao-140g-m-e-cortica-39x35cm-4.jpg"
   ]
  },
  {
@@ -70,10 +70,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/btn180-1.jpg",
-   "img/btn180-2.jpg",
-   "img/btn180-3.jpg",
-   "img/btn180-4.jpg"
+   "img/sacola-tnt-80g-m-34x26cm-1.jpg",
+   "img/sacola-tnt-80g-m-34x26cm-2.jpg",
+   "img/sacola-tnt-80g-m-34x26cm-3.jpg",
+   "img/sacola-tnt-80g-m-34x26cm-4.jpg"
   ]
  },
  {
@@ -124,10 +124,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/btn080-1.jpg",
-   "img/btn080-2.jpg",
-   "img/btn080-3.jpg",
-   "img/btn080-4.jpg"
+   "img/sacola-tnt-80gr-41x37cm-1.jpg",
+   "img/sacola-tnt-80gr-41x37cm-2.jpg",
+   "img/sacola-tnt-80gr-41x37cm-3.jpg",
+   "img/sacola-tnt-80gr-41x37cm-4.jpg"
   ]
  },
  {
@@ -162,10 +162,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/btn203-1.jpg",
-   "img/btn203-2.jpg",
-   "img/btn203-3.jpg",
-   "img/btn203-4.jpg"
+   "img/sacola-termica-em-tnt-80g-m-35x32-1.jpg",
+   "img/sacola-termica-em-tnt-80g-m-35x32-2.jpg",
+   "img/sacola-termica-em-tnt-80g-m-35x32-3.jpg",
+   "img/sacola-termica-em-tnt-80g-m-35x32-4.jpg"
   ]
  },
  {
@@ -220,10 +220,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/bp0001-1.jpg",
-   "img/bp0001-2.jpg",
-   "img/bp0001-3.jpg",
-   "img/bp0001-4.jpg"
+   "img/sacola-mochila-poliester-210d-40x35cm-1.jpg",
+   "img/sacola-mochila-poliester-210d-40x35cm-2.jpg",
+   "img/sacola-mochila-poliester-210d-40x35cm-3.jpg",
+   "img/sacola-mochila-poliester-210d-40x35cm-4.jpg"
   ]
  },
  {
@@ -258,10 +258,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/bp0002-1.jpg",
-   "img/bp0002-2.jpg",
-   "img/bp0002-3.jpg",
-   "img/bp0002-4.jpg"
+   "img/sacola-mochila-poliester-210d-43x32cm-1.jpg",
+   "img/sacola-mochila-poliester-210d-43x32cm-2.jpg",
+   "img/sacola-mochila-poliester-210d-43x32cm-3.jpg",
+   "img/sacola-mochila-poliester-210d-43x32cm-4.jpg"
   ]
  },
  {
@@ -316,10 +316,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/bac016-1.jpg",
-   "img/bac016-2.jpg",
-   "img/bac016-3.jpg",
-   "img/bac016-4.jpg"
+   "img/sacola-em-algodao-reciclavel-140g-m-1.jpg",
+   "img/sacola-em-algodao-reciclavel-140g-m-2.jpg",
+   "img/sacola-em-algodao-reciclavel-140g-m-3.jpg",
+   "img/sacola-em-algodao-reciclavel-140g-m-4.jpg"
   ]
  },
  {
@@ -351,10 +351,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/bac008-1.jpg",
-   "img/bac008-2.jpg",
-   "img/bac008-3.jpg",
-   "img/bac008-4.jpg"
+   "img/sacola-em-algodao-140g-m-42x38cm-1.jpg",
+   "img/sacola-em-algodao-140g-m-42x38cm-2.jpg",
+   "img/sacola-em-algodao-140g-m-42x38cm-3.jpg",
+   "img/sacola-em-algodao-140g-m-42x38cm-4.jpg"
   ]
  },
  {
@@ -373,10 +373,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/bac012-1.jpg",
-   "img/bac012-2.jpg",
-   "img/bac012-3.jpg",
-   "img/bac012-4.jpg"
+   "img/sacola-em-algodao-e-juta-220g-m-35x45x11cm-1.jpg",
+   "img/sacola-em-algodao-e-juta-220g-m-35x45x11cm-2.jpg",
+   "img/sacola-em-algodao-e-juta-220g-m-35x45x11cm-3.jpg",
+   "img/sacola-em-algodao-e-juta-220g-m-35x45x11cm-4.jpg"
   ]
  },
  {
@@ -395,10 +395,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/bjt002-1.jpg",
-   "img/bjt002-2.jpg",
-   "img/bjt002-3.jpg",
-   "img/bjt002-4.jpg"
+   "img/sacola-em-juta-360g-m-34x43x16-5cm-1.jpg",
+   "img/sacola-em-juta-360g-m-34x43x16-5cm-2.jpg",
+   "img/sacola-em-juta-360g-m-34x43x16-5cm-3.jpg",
+   "img/sacola-em-juta-360g-m-34x43x16-5cm-4.jpg"
   ]
  },
  {
@@ -429,10 +429,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/btn120-1.jpg",
-   "img/btn120-2.jpg",
-   "img/btn120-3.jpg",
-   "img/btn120-4.jpg"
+   "img/sacola-em-tnt-laminado-120g-m-38-5x42cm-1.jpg",
+   "img/sacola-em-tnt-laminado-120g-m-38-5x42cm-2.jpg",
+   "img/sacola-em-tnt-laminado-120g-m-38-5x42cm-3.jpg",
+   "img/sacola-em-tnt-laminado-120g-m-38-5x42cm-4.jpg"
   ]
  },
  {
@@ -451,10 +451,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/bt210-1.jpg",
-   "img/bt210-2.jpg",
-   "img/bt210-3.jpg",
-   "img/bt210-4.jpg"
+   "img/bolsa-termica-em-algodao-e-juta-sintetica-21x19x15cm-1.jpg",
+   "img/bolsa-termica-em-algodao-e-juta-sintetica-21x19x15cm-2.jpg",
+   "img/bolsa-termica-em-algodao-e-juta-sintetica-21x19x15cm-3.jpg",
+   "img/bolsa-termica-em-algodao-e-juta-sintetica-21x19x15cm-4.jpg"
   ]
  },
  {
@@ -485,10 +485,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/btn202-1.jpg",
-   "img/btn202-2.jpg",
-   "img/btn202-3.jpg",
-   "img/btn202-4.jpg"
+   "img/bolsa-termica-em-poliester-600d-19x14x12cm-1.jpg",
+   "img/bolsa-termica-em-poliester-600d-19x14x12cm-2.jpg",
+   "img/bolsa-termica-em-poliester-600d-19x14x12cm-3.jpg",
+   "img/bolsa-termica-em-poliester-600d-19x14x12cm-4.jpg"
   ]
  },
  {
@@ -507,10 +507,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/bt211-1.jpg",
-   "img/bt211-2.jpg",
-   "img/bt211-3.jpg",
-   "img/bt211-4.jpg"
+   "img/bolsa-termica-em-algodao-e-juta-sintetica-24x30x20cm-1.jpg",
+   "img/bolsa-termica-em-algodao-e-juta-sintetica-24x30x20cm-2.jpg",
+   "img/bolsa-termica-em-algodao-e-juta-sintetica-24x30x20cm-3.jpg",
+   "img/bolsa-termica-em-algodao-e-juta-sintetica-24x30x20cm-4.jpg"
   ]
  },
  {
@@ -549,10 +549,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/btn200-1.jpg",
-   "img/btn200-2.jpg",
-   "img/btn200-3.jpg",
-   "img/btn200-4.jpg"
+   "img/bolsa-termica-em-tnt-80g-m-18x14x13cm-1.jpg",
+   "img/bolsa-termica-em-tnt-80g-m-18x14x13cm-2.jpg",
+   "img/bolsa-termica-em-tnt-80g-m-18x14x13cm-3.jpg",
+   "img/bolsa-termica-em-tnt-80g-m-18x14x13cm-4.jpg"
   ]
  },
  {
@@ -579,10 +579,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/ne107-1.jpg",
-   "img/ne107-2.jpg",
-   "img/ne107-3.jpg",
-   "img/ne107-4.jpg"
+   "img/necessaire-em-poliester-em-300d-1.jpg",
+   "img/necessaire-em-poliester-em-300d-2.jpg",
+   "img/necessaire-em-poliester-em-300d-3.jpg",
+   "img/necessaire-em-poliester-em-300d-4.jpg"
   ]
  },
  {
@@ -601,10 +601,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/mc115-1.jpg",
-   "img/mc115-2.jpg",
-   "img/mc115-3.jpg",
-   "img/mc115-4.jpg"
+   "img/mochila-para-notebook-em-poliester-600d-1.jpg",
+   "img/mochila-para-notebook-em-poliester-600d-2.jpg",
+   "img/mochila-para-notebook-em-poliester-600d-3.jpg",
+   "img/mochila-para-notebook-em-poliester-600d-4.jpg"
   ]
  },
  {
@@ -632,10 +632,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/mc276-1.jpg",
-   "img/mc276-2.jpg",
-   "img/mc276-3.jpg",
-   "img/mc276-4.jpg"
+   "img/mochila-para-notebook-em-poliester-300d-1.jpg",
+   "img/mochila-para-notebook-em-poliester-300d-2.jpg",
+   "img/mochila-para-notebook-em-poliester-300d-3.jpg",
+   "img/mochila-para-notebook-em-poliester-300d-4.jpg"
   ]
  },
  {
@@ -654,10 +654,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/mc110-1.jpg",
-   "img/mc110-2.jpg",
-   "img/mc110-3.jpg",
-   "img/mc110-4.jpg"
+   "img/mochila-para-notebook-1.jpg",
+   "img/mochila-para-notebook-2.jpg",
+   "img/mochila-para-notebook-3.jpg",
+   "img/mochila-para-notebook-4.jpg"
   ]
  },
  {
@@ -676,10 +676,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/pl05-1.jpg",
-   "img/pl05-2.jpg",
-   "img/pl05-3.jpg",
-   "img/pl05-4.jpg"
+   "img/placa-de-metal-1.jpg",
+   "img/placa-de-metal-2.jpg",
+   "img/placa-de-metal-3.jpg",
+   "img/placa-de-metal-4.jpg"
   ]
  },
  {
@@ -722,10 +722,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/ga7650-1.jpg",
-   "img/ga7650-2.jpg",
-   "img/ga7650-3.jpg",
-   "img/ga7650-4.jpg"
+   "img/garrafa-em-aluminio-reciclado-600-ml-1.jpg",
+   "img/garrafa-em-aluminio-reciclado-600-ml-2.jpg",
+   "img/garrafa-em-aluminio-reciclado-600-ml-3.jpg",
+   "img/garrafa-em-aluminio-reciclado-600-ml-4.jpg"
   ]
  },
  {
@@ -760,10 +760,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/ga7500-1.jpg",
-   "img/ga7500-2.jpg",
-   "img/ga7500-3.jpg",
-   "img/ga7500-4.jpg"
+   "img/garrafa-pet-500-ml-1.jpg",
+   "img/garrafa-pet-500-ml-2.jpg",
+   "img/garrafa-pet-500-ml-3.jpg",
+   "img/garrafa-pet-500-ml-4.jpg"
   ]
  },
  {
@@ -807,10 +807,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/ga7610-1.jpg",
-   "img/ga7610-2.jpg",
-   "img/ga7610-3.jpg",
-   "img/ga7610-4.jpg"
+   "img/garrafa-em-aluminio-reciclado-com-tampa-de-bambu-500-ml-1.jpg",
+   "img/garrafa-em-aluminio-reciclado-com-tampa-de-bambu-500-ml-2.jpg",
+   "img/garrafa-em-aluminio-reciclado-com-tampa-de-bambu-500-ml-3.jpg",
+   "img/garrafa-em-aluminio-reciclado-com-tampa-de-bambu-500-ml-4.jpg"
   ]
  },
  {
@@ -833,10 +833,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/ga5010-1.jpg",
-   "img/ga5010-2.jpg",
-   "img/ga5010-3.jpg",
-   "img/ga5010-4.jpg"
+   "img/coqueteleira-inox-600-ml-1.jpg",
+   "img/coqueteleira-inox-600-ml-2.jpg",
+   "img/coqueteleira-inox-600-ml-3.jpg",
+   "img/coqueteleira-inox-600-ml-4.jpg"
   ]
  },
  {
@@ -867,10 +867,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/co9550-1.jpg",
-   "img/co9550-2.jpg",
-   "img/co9550-3.jpg",
-   "img/co9550-4.jpg"
+   "img/copo-de-aco-inox-parede-dupla-450-ml-1.jpg",
+   "img/copo-de-aco-inox-parede-dupla-450-ml-2.jpg",
+   "img/copo-de-aco-inox-parede-dupla-450-ml-3.jpg",
+   "img/copo-de-aco-inox-parede-dupla-450-ml-4.jpg"
   ]
  },
  {
@@ -897,10 +897,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/co9700-1.jpg",
-   "img/co9700-2.jpg",
-   "img/co9700-3.jpg",
-   "img/co9700-4.jpg"
+   "img/taca-termica-de-aco-inox-parede-dupla-350-ml-1.jpg",
+   "img/taca-termica-de-aco-inox-parede-dupla-350-ml-2.jpg",
+   "img/taca-termica-de-aco-inox-parede-dupla-350-ml-3.jpg",
+   "img/taca-termica-de-aco-inox-parede-dupla-350-ml-4.jpg"
   ]
  },
  {
@@ -919,10 +919,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/kws110-1.jpg",
-   "img/kws110-2.jpg",
-   "img/kws110-3.jpg",
-   "img/kws110-4.jpg"
+   "img/kit-copo-200-ml-e-acessorios-para-drink-caixa-de-papelao-1.jpg",
+   "img/kit-copo-200-ml-e-acessorios-para-drink-caixa-de-papelao-2.jpg",
+   "img/kit-copo-200-ml-e-acessorios-para-drink-caixa-de-papelao-3.jpg",
+   "img/kit-copo-200-ml-e-acessorios-para-drink-caixa-de-papelao-4.jpg"
   ]
  },
  {
@@ -941,10 +941,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/kv0200-1.jpg",
-   "img/kv0200-2.jpg",
-   "img/kv0200-3.jpg",
-   "img/kv0200-4.jpg"
+   "img/kit-vinho-4-pecas-caixa-de-papelao-1.jpg",
+   "img/kit-vinho-4-pecas-caixa-de-papelao-2.jpg",
+   "img/kit-vinho-4-pecas-caixa-de-papelao-3.jpg",
+   "img/kit-vinho-4-pecas-caixa-de-papelao-4.jpg"
   ]
  },
  {
@@ -963,10 +963,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/kws200-1.jpg",
-   "img/kws200-2.jpg",
-   "img/kws200-3.jpg",
-   "img/kws200-4.jpg"
+   "img/kit-2-copos-200-ml-e-acessorios-para-drink-1.jpg",
+   "img/kit-2-copos-200-ml-e-acessorios-para-drink-2.jpg",
+   "img/kit-2-copos-200-ml-e-acessorios-para-drink-3.jpg",
+   "img/kit-2-copos-200-ml-e-acessorios-para-drink-4.jpg"
   ]
  },
  {
@@ -985,10 +985,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/kws100-1.jpg",
-   "img/kws100-2.jpg",
-   "img/kws100-3.jpg",
-   "img/kws100-4.jpg"
+   "img/kit-copo-200-ml-e-acessorios-para-drink-1.jpg",
+   "img/kit-copo-200-ml-e-acessorios-para-drink-2.jpg",
+   "img/kit-copo-200-ml-e-acessorios-para-drink-3.jpg",
+   "img/kit-copo-200-ml-e-acessorios-para-drink-4.jpg"
   ]
  },
  {
@@ -1008,10 +1008,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/kv0150-1.jpg",
-   "img/kv0150-2.jpg",
-   "img/kv0150-3.jpg",
-   "img/kv0150-4.jpg"
+   "img/kit-vinho-4-pecas-caixa-de-madeira-1.jpg",
+   "img/kit-vinho-4-pecas-caixa-de-madeira-2.jpg",
+   "img/kit-vinho-4-pecas-caixa-de-madeira-3.jpg",
+   "img/kit-vinho-4-pecas-caixa-de-madeira-4.jpg"
   ]
  },
  {
@@ -1030,10 +1030,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/kc0201-1.jpg",
-   "img/kc0201-2.jpg",
-   "img/kc0201-3.jpg",
-   "img/kc0201-4.jpg"
+   "img/kit-churrasco-com-tabua-de-bambu-garfo-faca-e-chaira-1.jpg",
+   "img/kit-churrasco-com-tabua-de-bambu-garfo-faca-e-chaira-2.jpg",
+   "img/kit-churrasco-com-tabua-de-bambu-garfo-faca-e-chaira-3.jpg",
+   "img/kit-churrasco-com-tabua-de-bambu-garfo-faca-e-chaira-4.jpg"
   ]
  },
  {
@@ -1052,10 +1052,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/kcq100-1.jpg",
-   "img/kcq100-2.jpg",
-   "img/kcq100-3.jpg",
-   "img/kcq100-4.jpg"
+   "img/kit-coqueteleira-500-ml-e-acessorios-para-drink-1.jpg",
+   "img/kit-coqueteleira-500-ml-e-acessorios-para-drink-2.jpg",
+   "img/kit-coqueteleira-500-ml-e-acessorios-para-drink-3.jpg",
+   "img/kit-coqueteleira-500-ml-e-acessorios-para-drink-4.jpg"
   ]
  },
  {
@@ -1074,10 +1074,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/cj110-1.jpg",
-   "img/cj110-2.jpg",
-   "img/cj110-3.jpg",
-   "img/cj110-4.jpg"
+   "img/conjunto-caneta-e-chaveiro-1.jpg",
+   "img/conjunto-caneta-e-chaveiro-2.jpg",
+   "img/conjunto-caneta-e-chaveiro-3.jpg",
+   "img/conjunto-caneta-e-chaveiro-4.jpg"
   ]
  },
  {
@@ -1096,10 +1096,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/cj300-1.jpg",
-   "img/cj300-2.jpg",
-   "img/cj300-3.jpg",
-   "img/cj300-4.jpg"
+   "img/kit-escritorio-caderno-garrafa-e-caneta-metalica-1.jpg",
+   "img/kit-escritorio-caderno-garrafa-e-caneta-metalica-2.jpg",
+   "img/kit-escritorio-caderno-garrafa-e-caneta-metalica-3.jpg",
+   "img/kit-escritorio-caderno-garrafa-e-caneta-metalica-4.jpg"
   ]
  },
  {
@@ -1118,10 +1118,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/cj40035-1.jpg",
-   "img/cj40035-2.jpg",
-   "img/cj40035-3.jpg",
-   "img/cj40035-4.jpg"
+   "img/kit-escritorio-papel-kraft-caneta-lapis-regua-borracha-caderno-e-bloco-1.jpg",
+   "img/kit-escritorio-papel-kraft-caneta-lapis-regua-borracha-caderno-e-bloco-2.jpg",
+   "img/kit-escritorio-papel-kraft-caneta-lapis-regua-borracha-caderno-e-bloco-3.jpg",
+   "img/kit-escritorio-papel-kraft-caneta-lapis-regua-borracha-caderno-e-bloco-4.jpg"
   ]
  },
  {
@@ -1144,10 +1144,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    }
   ],
   "fotos": [
-   "img/cad180-1.jpg",
-   "img/cad180-2.jpg",
-   "img/cad180-3.jpg",
-   "img/cad180-4.jpg"
+   "img/kit-escritorio-a5-capa-em-couro-reciclado-e-caneta-metalica-1.jpg",
+   "img/kit-escritorio-a5-capa-em-couro-reciclado-e-caneta-metalica-2.jpg",
+   "img/kit-escritorio-a5-capa-em-couro-reciclado-e-caneta-metalica-3.jpg",
+   "img/kit-escritorio-a5-capa-em-couro-reciclado-e-caneta-metalica-4.jpg"
   ]
  },
  {
@@ -1175,10 +1175,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/ca9530-1.jpg",
-   "img/ca9530-2.jpg",
-   "img/ca9530-3.jpg",
-   "img/ca9530-4.jpg"
+   "img/caneca-termica-400-ml-1.jpg",
+   "img/caneca-termica-400-ml-2.jpg",
+   "img/caneca-termica-400-ml-3.jpg",
+   "img/caneca-termica-400-ml-4.jpg"
   ]
  },
  {
@@ -1201,10 +1201,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/ca9540-1.jpg",
-   "img/ca9540-2.jpg",
-   "img/ca9540-3.jpg",
-   "img/ca9540-4.jpg"
+   "img/caneca-termica-com-alca-em-madeira-400-ml-1.jpg",
+   "img/caneca-termica-com-alca-em-madeira-400-ml-2.jpg",
+   "img/caneca-termica-com-alca-em-madeira-400-ml-3.jpg",
+   "img/caneca-termica-com-alca-em-madeira-400-ml-4.jpg"
   ]
  },
  {
@@ -1247,10 +1247,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/ca9510-1.jpg",
-   "img/ca9510-2.jpg",
-   "img/ca9510-3.jpg",
-   "img/ca9510-4.jpg"
+   "img/caneca-termica-em-aco-inox-1.jpg",
+   "img/caneca-termica-em-aco-inox-2.jpg",
+   "img/caneca-termica-em-aco-inox-3.jpg",
+   "img/caneca-termica-em-aco-inox-4.jpg"
   ]
  },
  {
@@ -1277,10 +1277,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/ca8200-1.jpg",
-   "img/ca8200-2.jpg",
-   "img/ca8200-3.jpg",
-   "img/ca8200-4.jpg"
+   "img/caneca-termica-em-aco-inox-350-ml-1.jpg",
+   "img/caneca-termica-em-aco-inox-350-ml-2.jpg",
+   "img/caneca-termica-em-aco-inox-350-ml-3.jpg",
+   "img/caneca-termica-em-aco-inox-350-ml-4.jpg"
   ]
  },
  {
@@ -1299,10 +1299,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/ca9100p-1.jpg",
-   "img/ca9100p-2.jpg",
-   "img/ca9100p-3.jpg",
-   "img/ca9100p-4.jpg"
+   "img/caneca-em-aco-inox-350-ml-1.jpg",
+   "img/caneca-em-aco-inox-350-ml-2.jpg",
+   "img/caneca-em-aco-inox-350-ml-3.jpg",
+   "img/caneca-em-aco-inox-350-ml-4.jpg"
   ]
  },
  {
@@ -1325,10 +1325,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/ca9400-1.jpg",
-   "img/ca9400-2.jpg",
-   "img/ca9400-3.jpg",
-   "img/ca9400-4.jpg"
+   "img/caneca-termica-em-aco-inox-380-ml-1.jpg",
+   "img/caneca-termica-em-aco-inox-380-ml-2.jpg",
+   "img/caneca-termica-em-aco-inox-380-ml-3.jpg",
+   "img/caneca-termica-em-aco-inox-380-ml-4.jpg"
   ]
  },
  {
@@ -1371,10 +1371,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/ca8500-1.jpg",
-   "img/ca8500-2.jpg",
-   "img/ca8500-3.jpg",
-   "img/ca8500-4.jpg"
+   "img/caneca-termica-em-aco-inox-350-ml-2-1.jpg",
+   "img/caneca-termica-em-aco-inox-350-ml-2-2.jpg",
+   "img/caneca-termica-em-aco-inox-350-ml-2-3.jpg",
+   "img/caneca-termica-em-aco-inox-350-ml-2-4.jpg"
   ]
  },
  {
@@ -1393,10 +1393,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/ca8900-1.jpg",
-   "img/ca8900-2.jpg",
-   "img/ca8900-3.jpg",
-   "img/ca8900-4.jpg"
+   "img/caneca-termica-em-aco-inox-750-ml-1.jpg",
+   "img/caneca-termica-em-aco-inox-750-ml-2.jpg",
+   "img/caneca-termica-em-aco-inox-750-ml-3.jpg",
+   "img/caneca-termica-em-aco-inox-750-ml-4.jpg"
   ]
  },
  {
@@ -1415,10 +1415,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "Sob consulta"
   ],
   "fotos": [
-   "img/ca8700-1.jpg",
-   "img/ca8700-2.jpg",
-   "img/ca8700-3.jpg",
-   "img/ca8700-4.jpg"
+   "img/caneca-termica-em-aco-inox-530-ml-1.jpg",
+   "img/caneca-termica-em-aco-inox-530-ml-2.jpg",
+   "img/caneca-termica-em-aco-inox-530-ml-3.jpg",
+   "img/caneca-termica-em-aco-inox-530-ml-4.jpg"
   ]
  }
 ]);

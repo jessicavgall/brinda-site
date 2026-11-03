@@ -125,7 +125,7 @@
       .then(function (j) { if (t) clearTimeout(t); return j; });
   }
   var enviando = false;
-  var listaTexto = function () { return orc.map(function (i) { return "• " + porId(i.id).nome + " (cód. " + (porId(i.id).codigo || porId(i.id).id) + ") — " + i.qtd + " un"; }).join("\n"); };
+  var listaTexto = function () { return orc.map(function (i) { return "• " + porId(i.id).nome + " — " + i.qtd + " un"; }).join("\n"); };
 
   // Botão "Entrar em contato": abre o WhatsApp já com a lista de itens, sem exigir cadastro.
   function contatoWpp() {
