@@ -6,7 +6,7 @@
   var catDe = function (id) { return CATS.filter(function (c) { return c.id === id; })[0] || {}; };
   /* link do produto: só o nome (sem código nem fornecedor); nomes repetidos ganham -2, -3... */
   var slugar = function (t) { return String(t).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, ""); };
-  (function () { var usados = {}; PRODS.forEach(function (p) { var b = slugar(p.nome) || "produto", s = b, n = 1; while (usados[s]) s = b + "-" + (++n); usados[s] = 1; p.slug = s; }); })();
+  (function () { var usados = {}; PRODS.forEach(function (p) { var b = slugar(String(p.nome).replace(new RegExp("(^|[^a-z0-9])" + String(p.codigo || "x").replace(/[^A-Za-z0-9]/g, "") + "($|[^a-z0-9])", "ig"), " ")) || "produto", s = b, n = 1; while (usados[s]) s = b + "-" + (++n); usados[s] = 1; p.slug = s; }); })();
   var porSlug = function (s) { return PRODS.filter(function (p) { return p.slug === s; })[0]; };
   var porId = function (id) { return PRODS.filter(function (p) { return p.id === id; })[0]; };
 

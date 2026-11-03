@@ -588,7 +588,7 @@ window.PRODUTOS = window.PRODUTOS.concat([
  {
   "id": "mc115",
   "codigo": "MC115",
-  "nome": "Mochila para notebook em poliéster 600D (MC115)",
+  "nome": "Mochila para notebook em poliéster 600D",
   "categoria": "mochilas",
   "descricao": "Mochila confeccionada em tecido externo de poliéster 600D e tecido PVC. Com capacidade total de 19 litros. Possui bolso frontal com fechamento em zíper, um bolso lateral e compartimento interno para notebook de até 15,6”.",
   "personalizacao": [
@@ -641,7 +641,7 @@ window.PRODUTOS = window.PRODUTOS.concat([
  {
   "id": "mc110",
   "codigo": "MC110",
-  "nome": "Mochila para notebook (MC110)",
+  "nome": "Mochila para notebook",
   "categoria": "mochilas",
   "descricao": "Mochila em 100% PU com interior em poliéster 210D e capacidade de 16,5L. Possui compartimento principal com zíper e alça de fechamento em velcro, compartimento frontal com zíper, espaço para notebook de até 15,6”, alça de mão e alça de ombro acolchoada.",
   "personalizacao": [

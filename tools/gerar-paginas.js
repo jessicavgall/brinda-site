@@ -12,7 +12,7 @@ const slugar = t => String(t).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCa
 const usados = {};
 let n = 0;
 window.PRODUTOS.forEach(p => {
-  let b = slugar(p.nome) || "produto", s = b, k = 1;
+  let b = slugar(String(p.nome).replace(new RegExp("(^|[^a-z0-9])" + String(p.codigo || "x").replace(/[^A-Za-z0-9]/g, "") + "($|[^a-z0-9])", "ig"), " ")) || "produto", s = b, k = 1;
   while (usados[s]) s = b + "-" + (++k);
   usados[s] = 1;
   const desc = (p.descricao || "").replace(/\s+/g, " ").slice(0, 150).trim();
