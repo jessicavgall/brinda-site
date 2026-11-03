@@ -446,7 +446,7 @@ window.PRODUTOS = window.PRODUTOS.concat([
   "id": "xbz-18876",
   "codigo": "18876",
   "nome": "Kit Pincel 8 peças",
-  "categoria": "kits",
+  "categoria": "acessorios",
   "descricao": "Mantenha seus pincéis organizados e protegidos durante o dia a dia. O nosso kit contém: 1 Pincel para pó, 1 pincel língua de gato para base, 1 pincel chanfrado para sombras, 1 pincel para esfumar, 1 pincel para lábios, 1 pincel para sombras, 1 pincel língua de gato pequeno, 1 pincel de escovinha, tudo isso em um lindo estojo de couro sintético. O item perfeito para presentear os amantes da beleza. Altura 14,8 cm · Largura 8,8 cm · Área de gravação aprox. 7 cm x 5,5 cm",
   "cores": [
    {
@@ -456,6 +456,10 @@ window.PRODUTOS = window.PRODUTOS.concat([
    {
     "nome": "Preto",
     "hex": "#0a0809"
+   },
+   {
+    "nome": "Preto com branco",
+    "hex": "linear-gradient(135deg,#0a0809 50%,#ffffff 50%)"
    },
    {
     "nome": "Rosa",
@@ -2674,6 +2678,48 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "img/xbz-15007b-2.jpg",
    "img/xbz-15007b-3.jpg",
    "img/xbz-15007b-4.jpg"
+  ]
+ },
+ {
+  "id": "xbz-10342",
+  "codigo": "10342",
+  "nome": "Escova com Espelho",
+  "categoria": "acessorios",
+  "descricao": "Escova com espelho redonda em plástico resistente. Parte superior plana e parte inferior emborracha com relevo, estando aberta a peça basta empurrar a parte emborrachada(lado de fora) para poder utilizar a escova. Área de gravação aprox. 5,3 cm x 5,3 cm",
+  "cores": [
+   {
+    "nome": "Azul",
+    "hex": "#0065cb"
+   },
+   {
+    "nome": "Branco",
+    "hex": "#ffffff"
+   },
+   {
+    "nome": "Creme",
+    "hex": "#f5f3d9"
+   },
+   {
+    "nome": "Pink",
+    "hex": "#dc0255"
+   },
+   {
+    "nome": "Prata",
+    "hex": "#c7c6ca"
+   },
+   {
+    "nome": "Rosa",
+    "hex": "#ff33ff"
+   }
+  ],
+  "personalizacao": [
+   "Sob consulta"
+  ],
+  "fotos": [
+   "img/xbz-10342-1.jpg",
+   "img/xbz-10342-2.jpg",
+   "img/xbz-10342-3.jpg",
+   "img/xbz-10342-4.jpg"
   ]
  }
 ]);
