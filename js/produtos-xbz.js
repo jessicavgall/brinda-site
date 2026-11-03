@@ -2721,5 +2721,83 @@ window.PRODUTOS = window.PRODUTOS.concat([
    "img/xbz-10342-3.jpg",
    "img/xbz-10342-4.jpg"
   ]
- }
+ },
+{
+ "id": "xbz-15527",
+ "codigo": "15527",
+ "nome": "Espelho Bambu",
+ "categoria": "acessorios",
+ "descricao": "Espelho portátil com moldura em bambu e tampa com fechamento imantado. Altura 8,3 cm · Largura 7,5 cm · Profundidade 1,5 cm · Área de gravação aprox. 6,5 cm x 7 cm (tampa)",
+ "cores": [
+  {
+   "nome": "Bambu",
+   "hex": "#e1ad76"
+  }
+ ],
+ "personalizacao": [
+  "Sob consulta"
+ ],
+ "fotos": [
+  "img/xbz-15527-1.jpg",
+  "img/xbz-15527-2.jpg"
+ ]
+},
+{
+ "id": "xbz-18830",
+ "codigo": "18830",
+ "nome": "Espelho Duplo Revestido em PU",
+ "categoria": "acessorios",
+ "descricao": "Realce a beleza com nosso espelho duplo! Com uma face convencional e outra com aumento, ele é perfeito para conferir o visual ou caprichar na make. Seu revestimento em PU oferece praticidade e um toque sofisticado para os cuidados diários. Altura 2,5 cm · Largura 7,2 cm · Área de gravação aprox. 5,5 cm x 5,5 cm",
+ "cores": [
+  {
+   "nome": "Amarelo",
+   "hex": "#fffe00"
+  },
+  {
+   "nome": "Branco",
+   "hex": "#ffffff"
+  },
+  {
+   "nome": "Rosa",
+   "hex": "#ff33ff"
+  },
+  {
+   "nome": "Roxo",
+   "hex": "#9900cb"
+  }
+ ],
+ "personalizacao": [
+  "Sob consulta"
+ ],
+ "fotos": [
+  "img/xbz-18830-1.jpg",
+  "img/xbz-18830-2.jpg"
+ ]
+},
+{
+ "id": "xbz-06060",
+ "codigo": "06060",
+ "nome": "Espelho de Aço Inox",
+ "categoria": "acessorios",
+ "descricao": "Espelho inquebrável de aço inoxidável com design ultrafino, resistência e durabilidade inigualáveis. Com acabamento polido altamente reflexivo e verso escovado, o espelho é acompanhado por uma capa em couro sintético para proteção e um toque de sofisticação ao produto. Altura 8,5 cm · Largura 6,6 cm · Área de gravação aprox. Espelho 5 cm x 5 cm - Estojo 6 cm x  5,5 cm",
+ "cores": [
+  {
+   "nome": "Branco",
+   "hex": "#ffffff"
+  },
+  {
+   "nome": "Rosa",
+   "hex": "#ff33ff"
+  }
+ ],
+ "personalizacao": [
+  "Sob consulta"
+ ],
+ "fotos": [
+  "img/xbz-06060-1.jpg",
+  "img/xbz-06060-2.jpg",
+  "img/xbz-06060-3.jpg",
+  "img/xbz-06060-4.jpg"
+ ]
+}
 ]);
