@@ -46,7 +46,10 @@
 
   /* ---------- gaveta ---------- */
   function abrirOrc() { renderOrc(); $("#gaveta").classList.add("on"); $("#ov").classList.add("on"); }
-  function fechar() { $("#gaveta").classList.remove("on"); $("#modal").classList.remove("on"); $("#ov").classList.remove("on"); }
+  function fechar() {
+    $("#gaveta").classList.remove("on"); $("#modal").classList.remove("on"); $("#ov").classList.remove("on");
+    try { var u = new URL(location.href); if (u.searchParams.has("p")) { u.searchParams.delete("p"); history.replaceState(null, "", u.pathname + u.search + u.hash); } } catch (e) {}
+  }
   $("#abrir-orc").onclick = abrirOrc; $("#fechar-orc").onclick = fechar; $("#ov").onclick = fechar;
   $("#menu").onclick = function () { $("#nav").classList.toggle("on"); };
   document.addEventListener("keydown", function (e) { if (e.key === "Escape") fechar(); });
@@ -194,7 +197,7 @@
     var thumbs = p.fotos.length > 1 ? '<div class="thumbs">' + p.fotos.map(function (f, i) { return '<img src="' + esc(f) + '" alt="" data-t="' + i + '" class="' + (i ? "" : "ativo") + '">'; }).join("") + "</div>" : "";
     m.innerHTML = '<div class="galeria"><div class="foto">' + mini(p) + "</div>" + thumbs + '</div><div class="txt"><button class="x" id="fm">✕</button><span class="cat-nome" style="font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--ter)">' + esc(catDe(p.categoria).nome) + '</span><h3>' + esc(p.nome) + '</h3><p>' + esc(p.descricao || "") + '</p>' + (p.cores && p.cores.length ? '<div><p style="font-size:12px;margin-bottom:6px">Cores disponíveis:</p>' + bolinhas(p, 0, false) + "</div>" : "") +
       (p.personalizacao && p.personalizacao.length ? '<div><p style="font-size:12px;margin-bottom:6px">Personalização:</p><div class="pills">' + p.personalizacao.map(function (x) { return "<span>" + esc(x) + "</span>"; }).join("") + "</div></div>" : "") +
-      '<button class="btn btn-vinho" style="margin-top:auto" id="ma">Solicitar orçamento</button></div>';
+      '<div class="modal-acoes"><button class="btn btn-vinho" id="ma">Solicitar orçamento</button><button class="btn btn-link" id="mlink" type="button">Copiar link do produto</button></div></div>';
     m.classList.add("on"); $("#ov").classList.add("on");
     m.querySelectorAll("[data-t]").forEach(function (t) {
       t.onclick = function () {
@@ -203,6 +206,13 @@
       };
     });
     $("#fm").onclick = fechar; $("#ma").onclick = function () { adicionar(id); fechar(); };
+    var url = location.origin + location.pathname.replace(/[^/]*$/, "") + "p/" + id + ".html";
+    $("#mlink").onclick = function () {
+      var b = this, ok = function () { b.textContent = "Link copiado!"; setTimeout(function () { b.textContent = "Copiar link do produto"; }, 2200); };
+      if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(url).then(ok, function () { window.prompt("Copie o link:", url); });
+      else window.prompt("Copie o link:", url);
+    };
+    try { var u = new URL(location.href); u.searchParams.set("p", id); history.replaceState(null, "", u.pathname + u.search + u.hash); } catch (e) {}
   }
 
   /* ---------- home ---------- */
@@ -264,5 +274,7 @@
     }
     $("#busca").oninput = function () { busca = this.value; render(); };
     render();
+    var pedido = new URLSearchParams(location.search).get("p");
+    if (pedido && porId(pedido)) detalhe(pedido);
   }
 })();

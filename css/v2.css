@@ -225,3 +225,9 @@ html.js .rv.in{opacity:1;transform:none}
 .hero2 h1 u{background:none;animation:none;padding-bottom:0}
 .hero2 h1{font-weight:300}
 .hero2 h1 b,.hero2 h1 u{white-space:nowrap}
+
+/* botões do detalhe do produto */
+.modal-acoes{margin-top:auto;display:flex;flex-direction:column;gap:8px}
+.modal-acoes .btn{width:100%;justify-content:center}
+.btn.btn-link{background:transparent;color:var(--vinho);border:1.5px solid var(--vinho)}
+.btn.btn-link:hover{background:var(--vinho);color:var(--bege)}
