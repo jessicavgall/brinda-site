@@ -114,7 +114,7 @@
       nome: d.nome, telefone: d.telefone, empresa: d.empresa || undefined, email: d.email || undefined, observacoes: d.obs || undefined, website: d.website,
       itens: orc.map(function (i) {
         var p = porId(i.id);
-        return { codigo: p.codigo || p.id, nome: p.nome, quantidade: i.qtd, categoria: catDe(p.categoria).nome, fornecedor: /^xbz-/.test(p.id) ? "XBZ" : "Asia Import" };
+        return { codigo: p.codigo || p.id, nome: p.nome, quantidade: i.qtd, categoria: catDe(p.categoria).nome, fornecedor: /^xbz-/.test(p.id) ? "XBZ" : "Asia Import", foto: p.fotos && p.fotos[0] ? "https://personalizadosbrinda.com/" + p.fotos[0] : undefined };
       })
     };
     var ctl = window.AbortController ? new AbortController() : null;
